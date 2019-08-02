@@ -1,0 +1,48 @@
+.jumbotron{
+background-image: url(img/Informatica.jpg);
+background-size: cover;
+}
+
+body{
+
+  background-color: white;
+}
+
+h1{
+
+
+    font-family: 'Source Serif Pro', serif;
+
+    font-family: 'Baloo Chettan', cursive;
+
+
+  color: black;
+  text-align: center;
+}
+
+.tamaño{
+  max-height: 400px;
+}
+
+.imgcarousel{
+
+  height:500px;
+}
+
+.tamaño1{
+  max-height: 210px;
+}
+
+.card1{
+  background-color: grey;
+}
+
+.tamañoim img{
+  width: 200px;
+  margin-left: 40%;
+}
+
+.tamañoim p{
+  margin-left: 40%;
+  margin-top: 10px;
+}
